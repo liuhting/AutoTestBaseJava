@@ -1,0 +1,4 @@
+本地仓库将代码推送到github:
+ (1)git add filename
+ (2)git commit -m "注释消息"
+ （3）git push
