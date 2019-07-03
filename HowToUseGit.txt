@@ -1,4 +1,7 @@
-±¾µØ²Ö¿â½«´úÂëÍÆËÍµ½github:
+æœ¬åœ°ä»“åº“å°†ä»£ç æ¨é€åˆ°github:
  (1)git add filename
- (2)git commit -m "×¢ÊÍÏûÏ¢"
- £¨3£©git push
+ (2)git commit -m "æ³¨é‡Šæ¶ˆæ¯"
+ ï¼ˆ3ï¼‰git push
+
+æ–‡ä»¶æ£€å‡º
+git pull
