@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="598cf20d-b194-4f13-9c00-9791f24e1f89" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="f1c16ca8-9027-4cc0-b869-42e2cb554bfe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/AutoTestBaseJava.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/AutoTestBaseJava.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ChapterTestNG.iml" afterPath="$PROJECT_DIR$/ChapterTestNg/ChapterTestNg.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/ChapterTestNg/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/ChapterTestNg/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +24,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/ChapterTestNg/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,7 +49,6 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -55,77 +64,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestBaseJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTestBaseJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTestBaseJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTestBaseJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTestBaseJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapterTestNg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="AutoTestBaseJava" type="cbb8eebc:String" user="AutoTestBaseJava" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="AutoTestBaseJava" type="cbb8eebc:String" user="AutoTestBaseJava" />
-              <item name="AutoTestBaseJava" type="cbb8eebc:String" user="AutoTestBaseJava" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="AutoTestBaseJava" type="cbb8eebc:String" user="AutoTestBaseJava" />
-              <item name="AutoTestBaseJava" type="cbb8eebc:String" user="AutoTestBaseJava" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AutoTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AutoTestBaseJava" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AutoTestBaseJava" type="616d4139:PackageViewModuleNode" />
-              <item name="main" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="ChapterTestNG" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,20 +192,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="598cf20d-b194-4f13-9c00-9791f24e1f89" name="Default" comment="" />
-      <created>1562490888683</created>
+      <changelist id="f1c16ca8-9027-4cc0-b869-42e2cb554bfe" name="Default" comment="" />
+      <created>1562492906169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562490888683</updated>
+      <updated>1562492906169</updated>
     </task>
-    <task id="LOCAL-00001" summary="nothing">
-      <created>1562491828503</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1562491828503</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -279,19 +233,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNg/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

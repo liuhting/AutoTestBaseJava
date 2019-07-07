@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AutoTestBaseJava.iml" filepath="$PROJECT_DIR$/AutoTestBaseJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ChapterTestNG.iml" filepath="$PROJECT_DIR$/ChapterTestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoTestBaseJava.iml" filepath="$PROJECT_DIR$/.idea/AutoTestBaseJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterTestNg/ChapterTestNg.iml" filepath="$PROJECT_DIR$/ChapterTestNg/ChapterTestNg.iml" />
     </modules>
   </component>
 </project>
