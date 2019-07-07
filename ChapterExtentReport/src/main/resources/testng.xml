@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="我自己的接口测试套件">
+    <test name="自己的测试模块">
+        <classes>
+            <class name="com.extent.report.TestMethodDemo">
+                <methods>
+                    <include name="demo1"/>
+                    <include name="demo2"/>
+                    <include name="demo3"/>
+                    <include name="logDemo"/>
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>
+        <listener class-name="com.extent.report.ExtentTestNGIReporterListener" />
+    </listeners>
+
+</suite>
