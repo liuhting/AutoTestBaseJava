@@ -1,0 +1,28 @@
+[
+  {
+    "description":"带headers信息的post请求",
+    "request":
+    {
+      "uri":"/post/with/headers",
+      "method":"post",
+      "headers":
+      {
+        "Content-type":"application/json"
+      },
+
+      "json":
+      {
+        "name":"liuhuiting",
+        "age":"25"
+      }
+    },
+    "response":{
+      "text":"这是需要headers信息的post请求",
+      "json":
+      {
+        "res":"1",
+        "ststus":"success"
+      }
+    }
+  }
+]

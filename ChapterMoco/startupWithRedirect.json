@@ -1,0 +1,30 @@
+[
+  {
+    "description":"重定向操作",
+    "request":
+    {
+      "uri":"/redirect"
+    },
+    "redirectTo":"http://www.hui2020.com"
+  },
+  {
+    "description":"重定向到自己的网页",
+    "request":
+    {
+      "uri":"/redirect/topath"
+    },
+    "redirectTo":"/redirect/new"
+  },
+  {
+    "description":"被重定向到的请求",
+    "request":
+    {
+      "uri":"/redirect/new"
+    },
+    "response":
+    {
+      "text":"this is redirect to my webpage!"
+    }
+
+  }
+]

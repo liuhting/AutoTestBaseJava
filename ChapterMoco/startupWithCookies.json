@@ -1,0 +1,38 @@
+[
+  {
+    "description":"带cookie信息的get请求",
+    "request":
+    {
+      "uri":"/get/with/cookies",
+      "method":"get",
+      "cookies":
+      {
+        "login":"true"
+      }
+
+    },
+    "response":{
+      "text":"这是需要cookie信息才能返回的get请求"
+    }
+  },
+  {
+    "description":"带cookie信息的post请求",
+    "request":
+    {
+      "uri":"/post/with/cookies",
+      "method":"post",
+      "cookies":
+      {
+        "login":"true"
+      },
+      "json":
+      {
+        "name":"liuhuiting",
+        "age":"25"
+      }
+    },
+    "response":{
+      "text":"这是需要cookie信息才能返回的post请求"
+    }
+  }
+]

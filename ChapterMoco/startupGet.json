@@ -1,0 +1,32 @@
+[
+  {
+    "description": "模拟一个没有参数的get请求",
+    "request":
+    {
+      "uri": "/getdemo",
+      "method": "get"
+    },
+    "response":
+    {
+      "text": "This is a get reuest"
+    }
+  },
+  {
+    "description": "模拟一个带参数的get请求",
+    "request":
+    {
+      "uri": "/getwithparams",
+      "method": "get",
+      "queries":
+      {
+        "name": "liuhuiting",
+        "age": "56"
+      }
+    },
+    "response":
+    {
+      "text": "liuhuiting backed"
+    }
+  }
+
+]
