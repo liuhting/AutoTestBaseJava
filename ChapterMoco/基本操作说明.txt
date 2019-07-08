@@ -1,4 +1,9 @@
-在终端里面运行下面的命令：
+mock的下载地址：
+https://repo1.maven.org/maven2/com/github/dreamhead/moco-runner/0.11.0/
+该列表下面的文件最大的那个文件（standalone.jar）
+
+
+如何执行文件?在终端里面运行下面的命令：
 java -jar ./moco-runner-0.11.0-standalone.jar 服务协议 -p 8888 -c  json类型对的配置文件
 
 java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c  setup1.json
