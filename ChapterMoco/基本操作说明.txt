@@ -7,3 +7,5 @@ https://repo1.maven.org/maven2/com/github/dreamhead/moco-runner/0.11.0/
 java -jar ./moco-runner-0.11.0-standalone.jar 服务协议 -p 8888 -c  json类型对的配置文件
 
 java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c  setup1.json
+
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c  startupWithCookies.json

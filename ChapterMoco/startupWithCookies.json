@@ -3,6 +3,23 @@
     "description":"带cookie信息的get请求",
     "request":
     {
+      "uri":"/getCookies",
+      "method":"get"
+    },
+    "response":
+    {
+      "cookies":
+      {
+        "login":"true"
+      },
+      "text":"successful return cookies info"
+    }
+  },
+
+  {
+    "description":"带cookie信息的get请求",
+    "request":
+    {
       "uri":"/get/with/cookies",
       "method":"get",
       "cookies":
@@ -16,23 +33,25 @@
     }
   },
   {
-    "description":"带cookie信息的post请求",
-    "request":
-    {
+    "description":"这是一个带cookies信息的post请求",
+    "request":{
       "uri":"/post/with/cookies",
       "method":"post",
-      "cookies":
-      {
+      "cookies":{
         "login":"true"
       },
-      "json":
-      {
-        "name":"liuhuiting",
-        "age":"25"
+      "json":{
+        "name":"huhansan",
+        "age":"18"
       }
     },
     "response":{
-      "text":"这是需要cookie信息才能返回的post请求"
+      "status":200,
+      "json":{
+        "huhansan":"success",
+        "status":"1"
+      }
     }
+
   }
 ]
